@@ -17,6 +17,14 @@ The application accepts text from the user, allows selection of a target languag
 * User-friendly interface
 * Automatic language translation
 
+## GUI Features
+
+- User-friendly graphical interface
+- Text input area
+- Language selection dropdown
+- Translate button
+- Output display area
+
 ## How to Run
 
 1. Install required library:
